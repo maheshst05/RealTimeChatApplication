@@ -8,3 +8,4 @@ Packges
 -styled-components (for css)
 -react-router-dom(routing) 
 -Toast(for React-Toastify allows you to add notifications to your app with ease.)
+-buffer(for React)
